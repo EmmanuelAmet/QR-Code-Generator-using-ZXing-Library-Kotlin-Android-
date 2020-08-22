@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QR Code Generator</string>
+    <string name="error">Oops, something unexpected happened, QR Code not generated.</string>
+    <string name="qr_code_generated_successful_message">QR Code Generated Successfully.</string>
+    <string name="qr_code_image">qr code image</string>
+</resources>
